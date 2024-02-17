@@ -1,0 +1,28 @@
+﻿body {
+}
+
+.dataTables_wrapper {
+    margin-top: 20px;
+}
+
+.dataTables_filter, .dataTables_length {
+    margin-bottom: 10px;
+}
+
+.dataTables_wrapper .dataTables_paginate,
+.dataTables_wrapper .dataTables_info {
+    margin-top: 10px; /* Adjust the top margin as needed */
+}
+
+.dataTables_wrapper .dataTables_paginate {
+    background-color:  ghostwhite;
+    border: 1px solid #ddd; /* Add your desired border style */
+    border-radius: 10px; /* Add border radius for a rounded appearance */
+    padding: 5px; /* Add padding to give some space inside the border */
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+

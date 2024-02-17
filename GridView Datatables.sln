@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GridView Datatables", "GridView Datatables\", "{FCED0E96-810C-4B9A-BDAD-9F4B5218AAD5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55755"
+		Debug.AspNetCompiler.PhysicalPath = "GridView Datatables\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55755\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55755"
+		Release.AspNetCompiler.PhysicalPath = "GridView Datatables\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55755\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55755"
+		SlnRelativePath = "GridView Datatables\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCED0E96-810C-4B9A-BDAD-9F4B5218AAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCED0E96-810C-4B9A-BDAD-9F4B5218AAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F90FEAD-6270-4563-BA6D-8E87712259C2}
+	EndGlobalSection
+EndGlobal
